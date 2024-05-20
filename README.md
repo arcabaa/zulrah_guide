@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+### Zulrah Guide
+An upgrade Zulrah Helper plugin, Zulrah Guide
